@@ -1,0 +1,10 @@
+[?1034hdarthmaul:Users helbertm$ [Kdarthmaul:Users helbertm$ [Kdarthmaul:Users helbertm$ sudo purgenvm[K[1Plsnvmsudo purge[Ksudo purgenvm[Ksudo purge[Kce[Klear
+[H[2Jdarthmaul:Users helbertm$ ls
+Shared		antigo		helbertm
+darthmaul:Users helbertm$ cd antigo/
+darthmaul:antigo helbertm$ ls
+Applications			Downloads			Pictures			dwhelper
+Applications (Parallels)	Library				Public				teste.txt
+Desktop				Movies				Sites
+Documents			Music				dumps
+darthmaul:antigo helbertm$ 
